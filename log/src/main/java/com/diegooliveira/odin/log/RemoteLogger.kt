@@ -4,7 +4,7 @@ class RemoteLogger : Logger{
     override var level: Level = Level.ERROR
 
     override fun v(message: String) {
-        // implemente o request
+        // implemente o requests
     }
 
     override fun d(message: String) {
